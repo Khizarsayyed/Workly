@@ -15,20 +15,6 @@ This project is a full-stack freelance marketplace web application built with Re
 
 * **Frontend:** React
 * **Data Fetching & Caching:** React Query
-* **Backend:** Express.js
+* **Backend:** Express.js,Nodejs,Mongodb
 
-## Getting Started
 
-[Provide instructions on how to set up and run the application locally. This might include steps for cloning the repository, installing dependencies, setting up environment variables, and running the frontend and backend.]
-
-## Potential Future Enhancements
-
-[Suggest potential future features or improvements, such as payment integration, messaging systems, review systems, etc.]
-
-## Contributing
-
-[Outline guidelines for contributing to the project.]
-
-## License
-
-[Specify the project's license.]
